@@ -1,0 +1,37 @@
+# Application Review Paper
+## By: Austin Stiffler
+### 16 January, 2021
+
+
+#### Introduction
+
+My name is Austin Stiffler, and I am a current Microsoft Software and Systems Academy student with a focus in Cloud Application Development. At the end of the cohort, I will be a 6-year Navy veteran who specialized in Submarine Network Administration.
+The purpose of this paper will be to review three different applications that relate to my personal objectives. I have not yet decided on what exact direction I want to take with my project yet, so I will be reviewing three applications that are very much different in their purposes.
+The applications I will be reviewing are *Hudl*, *BodyFit*, and *Givz*. These applications relate to my personal interests of sports, fitness, and giving to charity. 
+
+#### First Reviewed Application: *Hudl*
+
+The first application that I reviewed was *Hudl*; a performance analysis company for coaches and athletes of all levels of sports, including: high schools, clubs, universities, and even professional organizations. As someone who is deeply interested in not only sports but also sports analytics, I felt that this application would be a great match to my own personal objectives.
+On the home page of this application, five tabs were available, titled: *solutions*, *products*, *resources*, *support*, and *highlights*. 
+The *solutions* page shows how *Hudl*'s packages differ. There are particular packages for each sport and level that can be purchased.
+The *products* page lists every feature provided by *Hudl* that can be purchased. Some of these features included smart cameras, live video analysis, and customizable scripting tools that allow you to analyze the statistics that matter most to your team.
+The *resources* page provided courses, webinars, articles, and even the ability to chat with experts to provide users the ability to maximize their understanding and usage of the application.
+The *support* page is very similar to the resources page, with an additional "Contact Us" feature. This allows users to provide any feedback or ask questions in email form.
+Lastly, the *highlights* page lists recent highlight videos that have been uploaded by users. It even will show which highlights are "trending", based on how many views they have received.
+Overall, I think *Hudl* is a fantastic application that provides a very useful product for sports organizations nationwide. I think I could potentially relate this to my own personal objectives by designing an application that shows trending highlights, but is displayed as a scrolling or swiping feature with interactions like "liking" and "commenting" (think *TikTok*, but specifically for sports).
+
+#### Second Reviewed Application: *BodyFit*
+
+The second application that I reviewed was *BodyFit*; an application created by *bodybuilding.com* that is compromised of fitness programs, nutrition plans, follow-along workout videos, and thousands of individual workouts. Users are billed a monthly fee to have access to all resources within the application.
+Inside of the application, the first thing a user would do is choose from the list of workout plans that *BodyFit* has available. Once that plan is selected, it is then tracked by the application. While a user is working out, they will fill in the amount of weight they are using for the exercise being tracked, the amount of repetitions they were able to accomplish, and the amount of sets they completed per exercise. Each workout plan is also equipped with its own nutritional plan, tailored to either muscle building, weight loss, or both.
+All in all, *BodyFit* is a user-friendly application that obviously provides a great use for tracking personal health goals. As someone who is dedicated to personal health, I believe I could relate this to my own personal objectives by creating an application that allows the user to input their own exercise routines and nutritional plan. There are a lot of free resources on the internet for exercise and nutrition, so my application could be used to track any plan that someone wants to use or create on their own.
+
+#### Third Reviewed Application: *Givz*
+
+The third application that I reviewed was *Givz*; a one-stop shop for giving to charity organizations. *Givz* gives the user access to donate to over 1.6 million registered charities, directly from the application. It has convenient features like "favorites" and even recurring donations, allowing users to send donations within just a few clicks. There is an extra tab in the application as well, titled *history*. This tab will allow users to view all donation receipts, which will be useful come tax time. It also includes *feedback* and *help* tabs to contact *Givz* via email or access the FAQ page.
+ As someone who wants to be more supportive of charity organizations, I think I could relate *Givz* to my own personal objectives by designing an application that will be designed to kick old bad habits. This application could potentially be like a "swear jar"; every time you succumb to an old habit or fail to meet your goals of a new habit you are trying to establish, you have to donate a dollar to a charity of choice.
+
+#### Conclusion
+
+I thoroughly enjoyed my reviewal of these well-established applications. *Hudl*'s usage of "trending" sports highlights inspired me to potentially design an application dedicated to that specific feature, with interactions and a user-friendly interface. *BodyFit*'s workout and nutrition plan template is very easy to understand and use. I believe I could design an application with a similar template, but customizable based on any program a user would find on their own. Lastly, *Givz* inspired me to design an application for giving to charity organizations while also using it as a way to get rid of bad habits or establish good habits.
+All in all, these gave me inspiration and ideas to design an application of my own that will help achieve my personal objectives.

@@ -1,0 +1,43 @@
+# Project Selection Paper
+## By: Austin Stiffler
+### 22 January, 2021
+
+#### Introduction
+
+Are you still bringing a pencil and notepad to the gym? My name is Austin Stiffler and I am currently a student of Microsoft Software and Systems Academy, learning Cloud Application Development. The project I have decided to select will be an exercise and nutrition program builder and tracker. As an avid gym-goer, I have come across many fitness and nutrition applications that will provide exercise routines 
+and nutrition plans; with a large majority costing a monthly or one-time fee. My application will allow users to build and track their own workout and/or nutrition plans, for free, using their own knowledge and resources to customize a plan to 
+fit their unique goals.
+
+#### Data Phase
+
+The main data that will go into my application will be by user input. I will have to create different tables based on the features available in my application. For building just a single day's-worth of exercises, I will be allowing data
+input for the name of the overall workout, the name of each exercise, how many sets of each exercise, how many repetitions of each set, and a time amount for each exercise. The name of the day's workout would then be referenced in the
+table for the entire program created by the user. The single day's meal plan would also be referenced in the program's table. Data input for a meal plan would include meal name, food name, and nutritional values like calories, proteins,
+carbs, and fats. 
+
+The second stage of user input that will go into my application will be designed for when the user is actually using their program. When they are accessing the day's plan that they created, I will allow them to insert data for how much weight
+was used for an exercise, how many sets and repetitions they were able to complete (in the case that it differs from the values they had originally planned), and any changes that were possibly made in their diet for the day.
+
+#### Programming Phase
+
+The programming phase of this application would be creating all of the tables necessary, then design them work together within the database. These tables would have to include a user database that references their plans created, that would
+then reference exercise tables and nutrition tables. I also would like to implement these tables into a calendar, so users could assign their program to specific days of the week. I will also need to implement a way for previous tables 
+to be accessed by users; that way they can compare exercise results from week to week. Outside of databases, I will need to plan, develop and implement the graphical user interface that application will use.
+
+#### Interface
+
+The opening interface users will be presented with is a page with login or register buttons. Users will then be added to the master table following registration. From there, buttons titled "Create New Program", "Resume Current Program",
+"Select or Edit Program", and "Feedback" will be available. This will allow users to either start their program build, start their workout, change their program, edit a program they've already created, or give positive or negative feedback
+to administrators regarding bugs or ideas for improvement of the application. After creating a program, I would like the interface to show a calendar for users to assign each workout to. Once complete, the user would be brought back to the
+main page where they can then select that program to start.
+
+#### Project Build
+
+My plan to build this project starts with the constant learning of T-SQL C# and JavaScript or HTML, so I can better understand how to develop this program. Once I understand how to design the program, I will figure out how I can develop it within the scope of
+my abilities obtained through the course. From there, I plan to test the application by testing all functionalities from a user's perspective. This will ensure that the project works how I intend it to. Once the program works how I intend,
+I will ask other users to test my application to make sure that I'm not missing any bugs from my singular point of view. Lastly, I will make any updates/changes necessary for optimal performance of my application.
+
+#### Future Plans
+A "Community Programs" tab, which would be a dashboard where users can select from programs that were uploaded by other users; and will aslo have a ranking system to help users pick the programs that have fit the most people the best.
+Adding in a referenced table that has the macro information for each food item in nutrition plan.
+Questions? Suggestions?
